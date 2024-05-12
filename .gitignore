@@ -1,0 +1,9 @@
+#ignorar archivos temporales de editor
+
+\#*\#
+.\#*
+
+#ignorar archivos de compilacion de codigo
+
+*.o
+*.out
